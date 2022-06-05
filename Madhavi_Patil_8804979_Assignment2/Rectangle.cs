@@ -9,18 +9,18 @@ namespace Madhavi_Patil_8804979_Assignment2
     public class Rectangle
     {
 
-        private int length;
-        private int width;
+        private int length { get; set; }
+        private int width { get; set; }
 
         //default constructor
-        Rectangle()
+        public Rectangle()
         {
             length = 1;
             width = 1;
         }
 
         //non-default constructor
-        Rectangle(int x, int y)
+        public Rectangle(int x, int y)
         {
             length = x;
             width = y;
@@ -51,7 +51,7 @@ namespace Madhavi_Patil_8804979_Assignment2
 
         public int GetPerimeter()
         {
-            int perimeter = 2*(length*width);  
+            int perimeter = 2*(length+width);  
             return perimeter;
         }
 
