@@ -1,0 +1,3 @@
+C:\Users\MADHAVI\source\repos\Madhavi_Patil_8804979_Assignment2\Madhavi_Patil_8804979_Assignment2.Tests\obj\Debug\Madhavi_Patil_8804979_Assignment2.Tests.csproj.AssemblyReference.cache
+C:\Users\MADHAVI\source\repos\Madhavi_Patil_8804979_Assignment2\Madhavi_Patil_8804979_Assignment2.Tests\obj\Debug\Madhavi_Patil_8804979_Assignment2.Tests.csproj.SuggestedBindingRedirects.cache
+C:\Users\MADHAVI\source\repos\Madhavi_Patil_8804979_Assignment2\Madhavi_Patil_8804979_Assignment2.Tests\obj\Debug\Madhavi_Patil_8804979_Assignment2.Tests.csproj.CoreCompileInputs.cache

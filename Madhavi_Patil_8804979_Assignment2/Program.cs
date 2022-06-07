@@ -12,16 +12,26 @@ namespace Madhavi_Patil_8804979_Assignment2
         {
             int input = 0;
             Console.WriteLine("Please enter the length of the rectangle: ");
+            Console.ReadLine();
             int l;
+            if (input == 0)
+            {
+                Console.WriteLine("Length can not be zero, Please enter valid integer value: ");
+            }
             while (!int.TryParse(Console.ReadLine(), out l))
             {
                 Console.WriteLine("Please Enter a valid integer value!");
-
+              
             }
 
 
             Console.WriteLine("Please enter the width of the rectangle: ");
+            Console.ReadLine();
             int w;
+            if (input == 0)
+            {
+                Console.WriteLine("Width can not be zero, Please enter valid integer value: ");
+            }
             while (!int.TryParse(Console.ReadLine(), out w))
             {
                 Console.WriteLine("Please Enter a valid integer value!");
