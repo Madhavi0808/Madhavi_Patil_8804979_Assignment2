@@ -8,6 +8,7 @@ using Madhavi_Patil_8804979_Assignment2;
 
 namespace Madhavi_Patil_8804979_Assignment2Tests
 {
+    //Test cases
     public class RectangleTest
     {
         [TestFixture]

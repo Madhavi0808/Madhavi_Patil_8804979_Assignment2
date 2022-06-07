@@ -8,7 +8,7 @@ namespace Madhavi_Patil_8804979_Assignment2
 {
     public class Rectangle
     {
-
+        //private integer  attributes
         private int length { get; set; }
         private int width { get; set; }
 
